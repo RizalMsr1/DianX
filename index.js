@@ -1,7 +1,7 @@
 /**
    * Create By Dika Ardnt.
-   * Recode By papah Dev && Papah-Chan 
-   * Contact Me on wa.me/6282287219167
+   * Recode By Msr && Rizal-Chan 
+   * Contact Me on wa.me/6285718312918
    * Follow https://github.com/FahriAdison
 */
 
